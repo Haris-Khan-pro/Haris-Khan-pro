@@ -4,10 +4,13 @@
 
 </div>
 
-Hey there — I'm Haris Khan, a 22-year-old full-stack developer based in Pakistan, currently pursuing my BSCS degree in my 7th semester.<br>
-I picked up coding about 2 years ago and it instantly became one of my biggest passions. What started as curiosity turned into something I genuinely enjoy building with every day. I love the process of turning ideas into real, working products — and I'm constantly pushing myself to get better at it.<br>
-Beyond code, I'm someone who's genuinely curious about the world. I like learning new things — whether it's how something works, why something exists, or what's happening around the globe. That same curiosity is what keeps me growing as a developer. If there's something new to understand, I'm interested.<br>
-I'm always open to collaborating, learning from others, and building something that actually matters. If you have a project in mind or just want to talk tech — don't hesitate to reach out.
+👋 I'm **Haris Khan**, a 22-year-old full-stack developer based in 🇵🇰 **Pakistan**, currently pursuing my **BSCS degree** in my 7th semester.
+
+🔥 I picked up coding about **2 years ago** and it instantly became one of my biggest passions. What started as curiosity turned into something I genuinely enjoy building with every day. I love the process of turning ideas into real, working products — and I'm constantly pushing myself to get better at it.
+
+🌍 Beyond code, I'm someone who's genuinely curious about the world. I like learning new things — whether it's how something works, why something exists, or what's happening around the globe. That same curiosity is what keeps me growing as a developer. If there's something new to understand, I'm interested.
+
+🤝 I'm always open to collaborating, learning from others, and building something that actually matters. If you have a project in mind or just want to talk tech — don't hesitate to reach out! 💬
 
 ---
 
