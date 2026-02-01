@@ -14,16 +14,6 @@
 
 ---
 
-<div align="center">
-
-| 🔭 Working On | 👯 Collaborate On | 🤝 Help With | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Full-stack web & mobile apps using React, Next.js & Express | React / React Native projects, web apps & API integrations | DevOps, cloud deployment & scaling strategies | TypeScript best practices & advanced Next.js patterns | React, Next.js, Node.js & MongoDB | I can switch between frontend & backend in minutes |
-
-</div>
-
----
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/deadcode.lifter) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mharis-khan/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@black_adam0011) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/APNA3_6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariskhan01.gsm@gmail.com)
 
@@ -64,15 +54,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Haris-Khan-pro&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ### ✍️ Random Dev Quote
 <div align="center">
 
@@ -82,19 +63,8 @@
 
 ---
 
-### 📍 Top Contributed Repo
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Haris-Khan-pro&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Haris-Khan-pro&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
